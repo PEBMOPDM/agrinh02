@@ -21,14 +21,14 @@
 body {
     background-color: var(--background-color);
     color: var(--text-color);
-    line-height: 1.6;
+    line-height: 2.0;
     text-align: center;
 }
 
 h3 {
     background-color:var(--primary-color);
      width: 450px;          
-    height: 100px;
+    height: 200px;
     margin-top: 20px;
      margin-left: auto;
     margin-right: auto;
